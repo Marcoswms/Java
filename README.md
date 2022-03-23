@@ -1,2 +1,2 @@
-# GenerationBR_Java
+# Java
 Exercícios realizados em Java. 
